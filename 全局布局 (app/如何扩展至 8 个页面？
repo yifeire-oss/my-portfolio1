@@ -1,0 +1,9 @@
+/app
+  /page.tsx           (首页：Hero + Project Grid)
+  /works/page.tsx     (作品列表：使用 Framer Motion 的 Stagger 列表)
+  /works/[id]/page.tsx(详情页：使用 GSAP ScrollTrigger 做图片视差)
+  /about/page.tsx     (关于页面)
+  /services/page.tsx  (服务页面)
+  /journal/page.tsx   (博客页面)
+  /contact/page.tsx   (联系页面)
+  /archive/page.tsx   (归档页面)
